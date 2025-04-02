@@ -47,7 +47,7 @@ layers:
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
   - {t: '$$mdi:backspace$$', h: Fn}
-  - LEFT WIN
+  - {t: '$$mdi:backspace$$', type: backspace}
   - Gui+$$mdi:apple-keyboard-option$$
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
