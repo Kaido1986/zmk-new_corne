@@ -47,7 +47,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: SYMBOL}
   - {t: '$$mdi:keyboard-space$$', h: Fn}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
-  - B
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: LEFT WIN, h: QWERTY}
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
