@@ -14,7 +14,7 @@ layers:
   - O
   - P
   - {t: '-', s: _}
-  - Ctl+$$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-control$$
   - A
   - S
   - D
@@ -29,7 +29,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - ':'
-  - Sft+$$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-shift$$
   - Z
   - X
   - C
