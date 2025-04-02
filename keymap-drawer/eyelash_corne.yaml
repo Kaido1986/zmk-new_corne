@@ -46,7 +46,7 @@ layers:
   - LGUI
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
-  - {t: '$$mdi:keyboard-return$$', h: Fn}
+  - {t: '$$mdi:backspace$$', h: Fn}
   - LEFT WIN
   - Gui+$$mdi:apple-keyboard-option$$
   NUMBER:
