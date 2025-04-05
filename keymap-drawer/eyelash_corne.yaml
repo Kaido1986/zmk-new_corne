@@ -34,7 +34,7 @@ layers:
   - X
   - C
   - V
-  - B
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:arrow-down-bold$$
   - N
