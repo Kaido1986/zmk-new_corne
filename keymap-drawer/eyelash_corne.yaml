@@ -58,7 +58,7 @@ layers:
   - {t: '5', s: '%'}
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - {t: '6', s: ^}
-  - {t: '7', s: '&'}
+  - $$mdi:arrow-up-bold$$
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
@@ -74,7 +74,7 @@ layers:
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-right-bold$$
   - HOME
   - PG UP
